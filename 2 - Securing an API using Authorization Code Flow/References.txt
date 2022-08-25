@@ -1,0 +1,4 @@
+https://identityserver4.readthedocs.io/en/latest/quickstarts/2_interactive_aspnetcore.html#
+https://identityserver4.readthedocs.io/en/latest/quickstarts/3_aspnetcore_and_apis.html
+https://identityserver4.readthedocs.io/en/latest/quickstarts/5_entityframework.html
+https://identityserver4.readthedocs.io/en/latest/quickstarts/6_aspnet_identity.html

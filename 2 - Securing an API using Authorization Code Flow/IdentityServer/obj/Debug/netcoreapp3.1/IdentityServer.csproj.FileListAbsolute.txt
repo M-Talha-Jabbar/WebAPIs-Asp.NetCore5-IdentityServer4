@@ -1,0 +1,144 @@
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.exe
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.deps.json
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.runtimeconfig.json
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.runtimeconfig.dev.json
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.pdb
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.AssemblyReference.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfoInputs.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfo.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.CoreCompileInputs.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets\IdentityServer.StaticWebAssets.Manifest.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorTargetAssemblyInfo.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.CopyComplete
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.pdb
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.genruntimeconfig.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.exe
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.deps.json
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.runtimeconfig.json
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.runtimeconfig.dev.json
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.pdb
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.Views.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer.Views.pdb
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.AssemblyReference.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfoInputs.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfo.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.CoreCompileInputs.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorAssemblyInfo.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorAssemblyInfo.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets\IdentityServer.StaticWebAssets.Manifest.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.TagHelpers.input.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.TagHelpers.output.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorCoreGenerate.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoggedOut.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Consent\Index.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Device\Success.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Device\UserCodeCapture.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Device\UserCodeConfirmation.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Diagnostics\Index.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Grants\Index.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Redirect.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Nav.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ScopeListItem.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorTargetAssemblyInfo.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorTargetAssemblyInfo.cs
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.Views.pdb
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.CopyComplete
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.pdb
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.genruntimeconfig.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
