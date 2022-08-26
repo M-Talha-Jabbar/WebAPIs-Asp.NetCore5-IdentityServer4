@@ -44,10 +44,6 @@
               "target": "Package",
               "version": "[4.0.0, )"
             },
-            "Microsoft.AspNetCore.Authentication.Google": {
-              "target": "Package",
-              "version": "[3.1.5, )"
-            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.5, )"
@@ -60,15 +56,15 @@
               "target": "Package",
               "version": "[3.1.5, )"
             },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.5, )"
+              "version": "[3.1.28, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.5, )"
+              "version": "[3.1.28, )"
             },
             "Serilog.AspNetCore": {
               "target": "Package",
