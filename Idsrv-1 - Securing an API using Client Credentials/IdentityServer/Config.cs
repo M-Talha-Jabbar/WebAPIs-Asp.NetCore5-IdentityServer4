@@ -12,7 +12,7 @@ namespace IdentityServer
         public static IEnumerable<IdentityResource> IdentityResources =>
             new IdentityResource[]
             { 
-                new IdentityResources.OpenId()
+                new IdentityResources.OpenId(),
             };
 
         public static IEnumerable<ApiScope> ApiScopes =>

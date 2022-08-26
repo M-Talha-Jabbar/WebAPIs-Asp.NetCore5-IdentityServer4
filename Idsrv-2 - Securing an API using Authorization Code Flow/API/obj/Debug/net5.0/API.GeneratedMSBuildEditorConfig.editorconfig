@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = API
-build_property.ProjectDir = D:\WebAPIs-Asp.NetCore5-IdentityServer4\Quickstart #2 - Interactive Applications with ASP.NET Core\API\
+build_property.ProjectDir = D:\WebAPIs-Asp.NetCore5-IdentityServer4\Idsrv-2 - Securing an API using Authorization Code Flow\API\

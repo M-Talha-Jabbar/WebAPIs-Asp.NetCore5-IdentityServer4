@@ -29,17 +29,19 @@ namespace IdentityServer
             // providing the necessary UI parts for login, logout, consent and error.
             services.AddControllersWithViews();
 
+            /*
             var migrationsAssembly = typeof(Startup).GetTypeInfo().Assembly.GetName().Name;
             const string connectionString = "Server=.;Database=IdentityServer4;Integrated Security=True";
+            */
 
-            /*
+            
             var builder = services.AddIdentityServer()
                 .AddInMemoryIdentityResources(Config.IdentityResources)
                 .AddInMemoryApiScopes(Config.ApiScopes)
                 .AddInMemoryClients(Config.Clients)
                 .AddTestUsers(TestUsers.Users);
-            */
-
+            
+            /*
             var builder = services.AddIdentityServer()
                     .AddTestUsers(TestUsers.Users)
                     .AddConfigurationStore(options =>
@@ -50,10 +52,11 @@ namespace IdentityServer
                     {
                         options.ConfigureDbContext = b => b.UseSqlServer(connectionString, sql => sql.MigrationsAssembly(migrationsAssembly));
                     });
+            */
 
             // not recommended for production - you need to store your key material somewhere secure
-            builder.AddDeveloperSigningCredential();
-        }
+            builder.AddDeveloperSigningCredential(); 
+        } 
 
         public void Configure(IApplicationBuilder app)
         {
@@ -76,6 +79,7 @@ namespace IdentityServer
             });
         }
 
+        /*
         private void InitializeDatabase(IApplicationBuilder app)
         {
             using (var serviceScope = app.ApplicationServices.GetService<IServiceScopeFactory>().CreateScope())
@@ -113,5 +117,6 @@ namespace IdentityServer
                 }
             }
         }
+        */
     }
 }

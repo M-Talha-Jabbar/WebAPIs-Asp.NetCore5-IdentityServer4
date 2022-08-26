@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F56azmu3Vk/Gn7uiIegwOArAvSglv9RmoWH3upPctspeV7iGnpo8eUvGw9g0R4YEhOs7UGTcQD3TciwxH+hIOw==",
+  "dgSpecHash": "kG+wi7nSnfSMnLCsjllkm2CQf27lAz5ZqJKjc9RrmHovY9fUcNWMoYY9u+q37tGg8v1twT7dBLUDlYQPW01scg==",
   "success": true,
-  "projectFilePath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Quickstart #1 - Securing an API using Client Credentials\\API\\API.csproj",
+  "projectFilePath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-1 - Securing an API using Client Credentials\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\talha.jabbar\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",
     "C:\\Users\\talha.jabbar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

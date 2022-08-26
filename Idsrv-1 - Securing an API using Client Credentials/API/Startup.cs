@@ -33,7 +33,7 @@ namespace API
                 .AddJwtBearer(options =>
                 {
                     // validates the incoming JWT by making sure it is coming from a trusted issuer by confirming that the 'iss' parameter in the JWT matches this URI.
-                    // validates that the JWT is valid to be used with the APIs by validating the JWT from this URI (which checks the signature and expiry of the JWT). 
+                    // validates that the JWT is valid to be used with the APIs by validating the JWT by using this URI (that means finding and retrieving the public key that can be used to validate the JWT signature and its expiry). 
                     options.Authority = "https://localhost:5001"; // Authority is the address of the token-issuing authentication server. 
 
                     options.TokenValidationParameters = new TokenValidationParameters()

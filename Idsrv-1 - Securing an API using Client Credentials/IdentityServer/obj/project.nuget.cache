@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9g3k9GQugqjO0ial0RpkUqaNUXdeDuGX6/eqhJRRVaEJ9I928yLeFtiSVidi+BVTJxZ6LTTxhiFsLl860tfGzw==",
+  "dgSpecHash": "QyZQwApxfR9J+S9AH3E890prjWXyHtbOeRXpzcNN4tV7mdJsVeCXUfVVsGwEvD91RpUUSnGS+pJTP7Hx/Kd3CQ==",
   "success": true,
-  "projectFilePath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Quickstart #1 - Securing an API using Client Credentials\\IdentityServer\\IdentityServer.csproj",
+  "projectFilePath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-1 - Securing an API using Client Credentials\\IdentityServer\\IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\talha.jabbar\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
     "C:\\Users\\talha.jabbar\\.nuget\\packages\\identityserver4\\4.0.0\\identityserver4.4.0.0.nupkg.sha512",

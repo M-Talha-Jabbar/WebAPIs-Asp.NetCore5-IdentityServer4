@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "K5vSPOqcQ0M+Pf2S4rMJ8jBzjIqRA9lFjgpIhOyloGuK8bSa8YgyWeaGlGTaLj+uMwSzdj6aflhGAvpg/bPpBA==",
+  "success": true,
+  "projectFilePath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-3 - Securing an API using Authorization Code Flow with ASP.NET Core Identity\\MvcClient\\MvcClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\talha.jabbar\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.17\\microsoft.aspnetcore.authentication.openidconnect.5.0.17.nupkg.sha512",
+    "C:\\Users\\talha.jabbar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\talha.jabbar\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.7.1\\microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\talha.jabbar\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "C:\\Users\\talha.jabbar\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "C:\\Users\\talha.jabbar\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "C:\\Users\\talha.jabbar\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\talha.jabbar\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "C:\\Users\\talha.jabbar\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

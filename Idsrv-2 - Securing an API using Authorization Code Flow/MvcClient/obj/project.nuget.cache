@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k8zznat22hiTMLtaw2Hrzgl2Qm+GgZKCR+Aezz7Cdb337mnHBjVYMMOhH89i8R4Ein3G8Ol2XlJd/dAP2TO3Ag==",
+  "dgSpecHash": "vrO2Hs+H4FOmgHZD5YmP9xvm/WVBcyB3SWKOeecN99MoYDks+Ny88vpVNawcuucTDyX++ABKGYHrFbutqkEJQg==",
   "success": true,
-  "projectFilePath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Quickstart #2 - Interactive Applications with ASP.NET Core\\MvcClient\\MvcClient.csproj",
+  "projectFilePath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-2 - Securing an API using Authorization Code Flow\\MvcClient\\MvcClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\talha.jabbar\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.17\\microsoft.aspnetcore.authentication.openidconnect.5.0.17.nupkg.sha512",
     "C:\\Users\\talha.jabbar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

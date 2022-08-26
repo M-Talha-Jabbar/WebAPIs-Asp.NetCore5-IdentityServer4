@@ -53,12 +53,12 @@ namespace IdentityServer
                     AllowedGrantTypes = GrantTypes.Code,
 
                     // where to redirect to after login
-                    RedirectUris = { "https://localhost:44342/signin-oidc" },
+                    RedirectUris = { "https://localhost:44342/signin-oidc" }, // this will redirect us to a page where log in was prompt.
 
                     // where to redirect to after logout
                     PostLogoutRedirectUris = { "https://localhost:44342/signout-callback-oidc" },
 
-                    AllowOfflineAccess = true,
+                    AllowOfflineAccess = true, // Enabling support for refresh tokens.
 
                     AllowedScopes = new List<string>
                     {

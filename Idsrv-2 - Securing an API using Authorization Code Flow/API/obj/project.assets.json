@@ -560,11 +560,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Quickstart #2 - Interactive Applications with ASP.NET Core\\API\\API.csproj",
+      "projectUniqueName": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-2 - Securing an API using Authorization Code Flow\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Quickstart #2 - Interactive Applications with ASP.NET Core\\API\\API.csproj",
+      "projectPath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-2 - Securing an API using Authorization Code Flow\\API\\API.csproj",
       "packagesPath": "C:\\Users\\talha.jabbar\\.nuget\\packages\\",
-      "outputPath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Quickstart #2 - Interactive Applications with ASP.NET Core\\API\\obj\\",
+      "outputPath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-2 - Securing an API using Authorization Code Flow\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\talha.jabbar\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VBQ0dYruRcGZVPaUaElSBUzYxQQ7ohDtu4VYURwupoGNcqiz8QRnkNW4jwz4EsOSQiW7NZTUNsasStFILeoyyA==",
+  "dgSpecHash": "ndU2Xys4liPts/318OJK4cXpVupBhrjZK6PFgfIy0eo3TIz4uXCAmY7WZeJAmimfqdF5QhbFmNfOez1xN2X6HA==",
   "success": true,
-  "projectFilePath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Quickstart #2 - Interactive Applications with ASP.NET Core\\API\\API.csproj",
+  "projectFilePath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-2 - Securing an API using Authorization Code Flow\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\talha.jabbar\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",
     "C:\\Users\\talha.jabbar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
