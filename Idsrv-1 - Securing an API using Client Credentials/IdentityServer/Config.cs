@@ -29,13 +29,13 @@ namespace IdentityServer
                 {
                     ClientId = "client",
 
-                    // no interactive user, use the clientid/secret for authentication
-                    AllowedGrantTypes = GrantTypes.ClientCredentials,
-                    
                     ClientSecrets =
                     {
                         new Secret("secret".Sha256())
                     },
+
+                    // no interactive user, use the clientid/secret for authentication
+                    AllowedGrantTypes = GrantTypes.ClientCredentials,
 
                     // api scopes that client has access to
                     AllowedScopes = { "api1", "api2" }

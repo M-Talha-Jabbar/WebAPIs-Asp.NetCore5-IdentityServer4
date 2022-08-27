@@ -67,7 +67,7 @@ namespace IdentityServerAspNetIdentity
             app.UseStaticFiles();
             app.UseRouting();
 
-            app.UseIdentityServer();
+            app.UseIdentityServer(); // UseIdentityServer() includes a call to UseAuthentication(), so its not necessary to have both.
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

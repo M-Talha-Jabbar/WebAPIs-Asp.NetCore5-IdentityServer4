@@ -373,19 +373,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\talha.jabbar\\.nuget\\packages\\": {}
+    "C:\\Users\\Huzaifa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-3 - Securing an API using Authorization Code Flow with ASP.NET Core Identity\\MvcClient\\MvcClient.csproj",
+      "projectUniqueName": "C:\\Users\\Huzaifa\\Desktop\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-3 - Securing an API using Authorization Code Flow with ASP.NET Core Identity\\MvcClient\\MvcClient.csproj",
       "projectName": "MvcClient",
-      "projectPath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-3 - Securing an API using Authorization Code Flow with ASP.NET Core Identity\\MvcClient\\MvcClient.csproj",
-      "packagesPath": "C:\\Users\\talha.jabbar\\.nuget\\packages\\",
-      "outputPath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-3 - Securing an API using Authorization Code Flow with ASP.NET Core Identity\\MvcClient\\obj\\",
+      "projectPath": "C:\\Users\\Huzaifa\\Desktop\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-3 - Securing an API using Authorization Code Flow with ASP.NET Core Identity\\MvcClient\\MvcClient.csproj",
+      "packagesPath": "C:\\Users\\Huzaifa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Huzaifa\\Desktop\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-3 - Securing an API using Authorization Code Flow with ASP.NET Core Identity\\MvcClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\talha.jabbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Huzaifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -434,7 +434,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }

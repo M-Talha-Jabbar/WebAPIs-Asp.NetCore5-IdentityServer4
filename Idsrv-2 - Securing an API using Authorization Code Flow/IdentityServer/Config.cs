@@ -7,26 +7,29 @@ using IdentityServer4.Models;
 using System.Collections.Generic;
 
 namespace IdentityServer
-{
+{   
+    // Scope is a collection of claims.
+    // Scopes are also known as resources.
     public static class Config
     {
+        // Identity Resource is a named group of claims that can be requested using the 'scope' parameter.
         public static IEnumerable<IdentityResource> IdentityResources =>
             new IdentityResource[]
-            { 
-                new IdentityResources.OpenId(),
+            {
+                new IdentityResources.OpenId(), // it is mandatory and it tells the provider to return sub(subject id) claim (i.e an unique identifier of a user) in the identity token(id_token).
                 new IdentityResources.Profile(),
             };
 
         public static IEnumerable<ApiScope> ApiScopes =>
             new ApiScope[]
-            { 
+            {
                 new ApiScope("api1", "My API"),
                 new ApiScope("api2", "MY API2")
             };
 
         public static IEnumerable<Client> Clients =>
-            new Client[] 
-            { 
+            new Client[]
+            {
                 new Client
                 {
                     ClientId = "client",

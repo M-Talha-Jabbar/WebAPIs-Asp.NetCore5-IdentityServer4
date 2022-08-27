@@ -50,14 +50,17 @@ namespace MvcClient
 
                     options.SaveTokens = true; // It is used to persist the tokens(i.e. id_token, access_token & refresh_token) from IdentityServer in the cookie or we can say in the authentication session.
 
-                    options.Scope.Add("profile"); // So we’re requesting the 'profile' scope, but it could be any scope (or scopes) that the client is authorized to access.
-                    // We’ve configured the client to be allowed to retrieve the 'profile' identity scope in Config.Clients.
-                    options.GetClaimsFromUserInfoEndpoint = true; // And then getting user claims associated with 'profile' scope from UserInfo Endpoint through access_token and setting it in User.Claims.
-                    // The claims associated with 'profile' scope are name, given_name, family_name, website, etc.
-                    
+                    options.Scope.Add("profile"); // So we’re requesting the 'profile' scope, but it could be any scope (or scopes) that the client is authorized to access OR We can say that,
+                                                  // When a client asks for a scope (and that scope is allowed via configuration and not denied via consent), the value of that scope will be included in the resulting access token as a claim type 'scope'.
+
                     // Similarly, requesting other scopes.
-                    options.Scope.Add("api1"); 
+                    options.Scope.Add("api1");
                     options.Scope.Add("offline_access");
+
+                    // Remember, scopes are purely for authorizing clients to have access to user data on behalf of them.
+
+                    options.GetClaimsFromUserInfoEndpoint = true; // And now getting user claims associated with 'profile' scope from UserInfo Endpoint through access token and setting it in User.Claims.
+                    // The claims associated with 'profile' scope are name, given_name, family_name, website, etc.
                 });
                 // When we need the user to login, we challenge the authentication. In that case, we want the user to be redirected to the OIDC provider, so they can log in there and return with an identity.
                 // So we set the default challenge scheme to the OIDC scheme.
