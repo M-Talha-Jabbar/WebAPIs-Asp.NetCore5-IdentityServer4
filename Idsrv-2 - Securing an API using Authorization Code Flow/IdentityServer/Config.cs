@@ -7,7 +7,7 @@ using IdentityServer4.Models;
 using System.Collections.Generic;
 
 namespace IdentityServer
-{   
+{
     // Scope is a collection of claims.
     // Scopes are also known as resources.
     public static class Config
@@ -18,6 +18,7 @@ namespace IdentityServer
             {
                 new IdentityResources.OpenId(), // it is mandatory and it tells the provider to return sub(subject id) claim (i.e an unique identifier of a user) in the identity token(id_token).
                 new IdentityResources.Profile(),
+                new IdentityResources.Address()
             };
 
         public static IEnumerable<ApiScope> ApiScopes =>
@@ -56,17 +57,20 @@ namespace IdentityServer
                     AllowedGrantTypes = GrantTypes.Code,
 
                     // where to redirect to after login
-                    RedirectUris = { "https://localhost:44342/signin-oidc" }, // this will redirect us to a page where log in was prompt.
+                    RedirectUris = { "https://localhost:44342/signin-oidc" }, // this will redirect us to a page where log in was prompt
 
                     // where to redirect to after logout
                     PostLogoutRedirectUris = { "https://localhost:44342/signout-callback-oidc" },
 
-                    AllowOfflineAccess = true, // Enabling support for refresh tokens.
+                    AllowOfflineAccess = true, // enabling support for refresh tokens.
+
+                    RequireConsent = true, // enabling consent page for this client
 
                     AllowedScopes = new List<string>
                     {
                         IdentityServerConstants.StandardScopes.OpenId,
                         IdentityServerConstants.StandardScopes.Profile,
+                        IdentityServerConstants.StandardScopes.Address,
                         "api1"
                     }
                 }

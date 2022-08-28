@@ -2,6 +2,7 @@
 // Licensed under the Apache License, Version 2.0. See LICENSE in the project root for license information.
 
 
+using IdentityModel;
 using IdentityServer4;
 using IdentityServer4.Models;
 using System.Collections.Generic;
@@ -18,12 +19,22 @@ namespace IdentityServerAspNetIdentity
             {
                 new IdentityResources.OpenId(), // it is mandatory and it tells the provider to return sub(subject id) claim (i.e an unique identifier of a user) in the identity token(id_token).
                 new IdentityResources.Profile(),
+                new IdentityResources.Address(),
+                new IdentityResource(
+                    name: "roles",
+                    displayName: "User role(s)",
+                    userClaims: new List<string> { "role" }
+                ),
             };
 
         public static IEnumerable<ApiScope> ApiScopes =>
             new ApiScope[]
             {
-                new ApiScope("api1", "My API"),
+                new ApiScope(
+                    name: "api1", 
+                    displayName: "My API", 
+                    userClaims: new List<string> { "role" }
+                ),
                 new ApiScope("api2", "MY API2")
             };
 
@@ -56,17 +67,21 @@ namespace IdentityServerAspNetIdentity
                     AllowedGrantTypes = GrantTypes.Code,
 
                     // where to redirect to after login
-                    RedirectUris = { "https://localhost:44342/signin-oidc" }, // this will redirect us to a page where log in was prompt.
+                    RedirectUris = { "https://localhost:44342/signin-oidc" }, // this will redirect us to a page where log in was prompt
 
                     // where to redirect to after logout
                     PostLogoutRedirectUris = { "https://localhost:44342/signout-callback-oidc" },
 
-                    AllowOfflineAccess = true, // Enabling support for refresh tokens.
+                    AllowOfflineAccess = true, // enabling support for refresh tokens.
 
+                    RequireConsent = true, // enabling consent page for this client
+                    
                     AllowedScopes = new List<string>
                     {
                         IdentityServerConstants.StandardScopes.OpenId,
                         IdentityServerConstants.StandardScopes.Profile,
+                        IdentityServerConstants.StandardScopes.Address,
+                        "roles",
                         "api1"
                     }
                 }

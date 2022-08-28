@@ -25,11 +25,13 @@ namespace MvcClient.Controllers
             return View();
         }
 
+        [Authorize(Roles = "Admin")]
         public IActionResult Privacy()
         {
             return View();
         }
 
+        [AllowAnonymous]
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
@@ -42,6 +44,13 @@ namespace MvcClient.Controllers
             // It will clear the local application cookies. In addition it will also make a roundtrip to the IdentityServer to clear the central single sign-on session.
 
             // So this will clear the local cookie and then redirect to the IdentityServer. The IdentityServer will clear its cookies and then give the user a link to return back to the MVC application.
+        }
+
+        [AllowAnonymous]
+        public IActionResult AccessDenied()
+        {
+            return View();
+            // First, the runtime looks in the Views/[ControllerName] folder for the view with name [ActionName]. If it doesn't find a matching view there, it searches the Shared folder for the view.
         }
     }
 }

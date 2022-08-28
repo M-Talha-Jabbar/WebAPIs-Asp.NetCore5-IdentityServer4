@@ -9,7 +9,7 @@ namespace API.Controllers
     [ApiController]
     public class IdentityController : ControllerBase
     {
-        [Authorize(Policy = "ApiScope")]
+        [Authorize(Policy = "api1")]
         [HttpGet]
         public IActionResult Get()
         {
