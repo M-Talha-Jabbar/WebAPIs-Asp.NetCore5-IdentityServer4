@@ -174,3 +174,4 @@ C:\Users\Huzaifa\Desktop\WebAPIs-Asp.NetCore5-IdentityServer4\Idsrv-3 - Securing
 C:\Users\Huzaifa\Desktop\WebAPIs-Asp.NetCore5-IdentityServer4\Idsrv-3 - Securing an API using Authorization Code Flow with ASP.NET Core Identity\API\obj\Debug\net5.0\ref\API.dll
 C:\Users\Huzaifa\Desktop\WebAPIs-Asp.NetCore5-IdentityServer4\Idsrv-3 - Securing an API using Authorization Code Flow with ASP.NET Core Identity\API\obj\Debug\net5.0\API.pdb
 C:\Users\Huzaifa\Desktop\WebAPIs-Asp.NetCore5-IdentityServer4\Idsrv-3 - Securing an API using Authorization Code Flow with ASP.NET Core Identity\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\WebAPIs-Asp.NetCore5-IdentityServer4\Idsrv-3 - Securing an API using Authorization Code Flow with ASP.NET Core Identity\API\bin\Debug\net5.0\API.StaticWebAssets.xml

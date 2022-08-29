@@ -34,7 +34,10 @@ namespace IdentityServerAspNetIdentity
                     name: "api1", 
                     displayName: "My API", 
                     userClaims: new List<string> { "role" }
-                ),
+                ), // This scope definition tells the configuration system, that when a 'api1' scope is granted, the 'role' claim should be added to the access token.
+                // It is independent of whether particular claim is in a scope or identity resource and then that scope is allowed via configuration and not denied via consent.
+                // Also there is no involvement of UserInfo Endpoint here. Just when 'api1' scope will be granted (or accepted via consent from user), the 'role' claim will be added in the access token as a claim type 'role' while 'api1' will be added in the access token as a claim type 'scope'.
+
                 new ApiScope("api2", "MY API2")
             };
 

@@ -87,7 +87,7 @@ namespace MvcClient
                     // See client will get all claims which are associated with identity resources which are in the access token from UserInfo Endpoint but by default only 'profile' identity resource or scope claims are mapped in our claims (User.Claims).
                     // See Identity Server logs and you will see that all claims were returned by Identity Server but only claims associated with 'profile' identity resource or scope were mapped in our claims (User.Claims).
                     // And even from 'profile' identity resource or scope claims you will see that only name, given_name and family_name are mapped. Others remain unmapped.
-                    // So if we want to map other claims associated with identity resources or scopes which were returned to us by Identity Server, we can do this like:
+                    // So if we want to map other claims associated with identity resources or scopes which were returned to us by Identity Server in our claims (User.Claims), we can do this like:
                     options.ClaimActions.MapUniqueJsonKey("website", "website"); // website claim was associated with 'profile' scope
                     options.ClaimActions.MapUniqueJsonKey("address", "address"); // address claim was associated with 'address' scope
 

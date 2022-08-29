@@ -42,7 +42,7 @@ namespace IdentityServerAspNetIdentity
                 {
                     args = args.Except(new[] { "/seed" }).ToArray();
                 }
-
+                
                 var host = CreateHostBuilder(args).Build();
 
                 if (seed)

@@ -373,19 +373,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Huzaifa\\.nuget\\packages\\": {}
+    "C:\\Users\\talha.jabbar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Huzaifa\\Desktop\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-2 - Securing an API using Authorization Code Flow\\MvcClient\\MvcClient.csproj",
+      "projectUniqueName": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-2 - Securing an API using Authorization Code Flow\\MvcClient\\MvcClient.csproj",
       "projectName": "MvcClient",
-      "projectPath": "C:\\Users\\Huzaifa\\Desktop\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-2 - Securing an API using Authorization Code Flow\\MvcClient\\MvcClient.csproj",
-      "packagesPath": "C:\\Users\\Huzaifa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Huzaifa\\Desktop\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-2 - Securing an API using Authorization Code Flow\\MvcClient\\obj\\",
+      "projectPath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-2 - Securing an API using Authorization Code Flow\\MvcClient\\MvcClient.csproj",
+      "packagesPath": "C:\\Users\\talha.jabbar\\.nuget\\packages\\",
+      "outputPath": "D:\\WebAPIs-Asp.NetCore5-IdentityServer4\\Idsrv-2 - Securing an API using Authorization Code Flow\\MvcClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Huzaifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\talha.jabbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -434,7 +434,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
